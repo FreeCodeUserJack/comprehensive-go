@@ -1,0 +1,2 @@
+use the following command inside your terminal or command prompt inside the corresponding folder of our course repository
+go run main.go
